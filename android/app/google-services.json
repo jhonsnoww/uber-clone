@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "810788538455",
+    "project_id": "uber-clone-ea63b",
+    "storage_bucket": "uber-clone-ea63b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810788538455:android:428aac194581890730bb12",
+        "android_client_info": {
+          "package_name": "com.bg.flat_grab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810788538455-o6neepspulepsbs0t45as3b2pqg8vkp5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCodpiR7gxYbqFHDjwqXjU_4wNNrwc9h64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810788538455-o6neepspulepsbs0t45as3b2pqg8vkp5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
